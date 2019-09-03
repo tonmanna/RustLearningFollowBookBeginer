@@ -44,3 +44,13 @@ Chapter 2 : Primitives
     Rust not allow to used Array out of index at compile time by default
     // not allow compile error
     //println!("{}", array1[5]);
+
+Chapter 3 Variables
+
+    Variable point to a memory localtion in witch particular value is store
+    "let" keyword is used for declaration of local variable
+    let x = 10;
+    let x:int = 10;
+    let name[:type][=value]
+    "let mut x = 10" mutability in rust binding are immutable by default. How ever "mut" override this to mutable.
+    Scope is same with other language

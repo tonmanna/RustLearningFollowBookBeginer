@@ -7,6 +7,11 @@ Chapter 1 : Getting Started with Rust
     Cargo
     cargo is like project management tools + package management similar yarn.
 
+    Rustup
+    Update utlity cli for update check rust compile version.
+    "rustup show"
+    "rustup update"
+
     How Install Rust see more detail at website
         I'm working on windows 10 it can be run rust without any problem.
 

@@ -9,7 +9,7 @@
       "type": "cppvsdbg",
       "request": "launch",
       "preLaunchTask": "cargobuild",
-      "program": "${workspaceRoot}/target/debug/chapter3.exe",
+      "program": "${workspaceRoot}/target/debug/convertor_mongooose_graphql.exe",
       "args": [],
       "stopAtEntry": false,
       "cwd": "${workspaceFolder}",
